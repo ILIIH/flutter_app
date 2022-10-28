@@ -23,8 +23,11 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto.ttf
   assets:
-
       - assets/images/hearts.png
   #   - images/a_dot_ham.jpeg
 
